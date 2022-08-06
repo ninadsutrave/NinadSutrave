@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
  - Extension Developer
  
- - Pianist
+ - Coding Geek 🤓
  
 ### A little more about me 🤞
 
