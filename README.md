@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am Ninad Sutrave 👋
 
 <!--
 **NinadSutrave/NinadSutrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Who am I? 👀
+
+ - Pre Final Year at IIT Ropar
+
+ - MERN Stack Developer
+ 
+ - Javascript Developer
+ 
+ - Extension Developer
+ 
+ - Pianist
+ 
+### A little more about me 🤞
+
+
+I work every single day towards strengthening my understanding and expanding my experience with the web and software engineering. Do not hesitate in approaching me for collaboration on serious projects aligned with my interests in development. Some of my projects that are live in the stores with real users using it, motivate me further to create unique applications for even larger audiences.
+
+### Reach me via 🔗
+
+ - [LinkedIn](https://www.linkedin.com/in/ninadsutrave/)
+ 
+ - [Instagram](https://www.instagram.com/ninadsutrave/)
