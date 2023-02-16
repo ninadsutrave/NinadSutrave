@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
  - Extension Developer
  
- - Coding Geek 🤓
+ - Coding Geek
  
 ### A little more about me 🤞
 
