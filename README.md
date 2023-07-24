@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Who am I? 👀
 
- - Pre Final Year at IIT Ropar
+ - Final Year at IIT Ropar
 
  - MERN Stack Developer
  
