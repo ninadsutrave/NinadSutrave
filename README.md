@@ -1,45 +1,23 @@
-### Hi there! I am Ninad Sutrave 👋
+### Hi, I'm Ninad 👋
 
-<!--
-**NinadSutrave/NinadSutrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer working on payments. I like building apps that are fun to use and make life easier for the people using them. I love working with different payment systems and making them more resilient.
 
-Here are some ideas to get you started:
+### Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Go` `Java` `Python` `Spring Boot` `Node.js` `Kafka` `Flink` `MySQL` `PostgreSQL` `Redis` `Kong` `AWS`
 
-### Who am I? 👀
+### Things I've built
 
- - Final Year at IIT Ropar
+- **[The Cryptic Owl](https://thecrypticowl.com)** — nine free puzzles every day: sudoku, cryptic clues and more, fresh at midnight in your own timezone.
+- **[FlatHunt](https://flathunt.in)** — flats, rooms, PG beds and flatmates, with no brokerage.
+- **[Sheet music shop](https://ninadsutrave.com/shop)** — my piano arrangements as engraved scores and MIDI.
+- **[react-fancy-circular-carousel](https://www.npmjs.com/package/react-fancy-circular-carousel)** — a customisable circular image carousel on npm, 400+ weekly downloads.
+- **[Censorify](https://censorify.netlify.app)** — browser extension that censors swearing behind a placeholder of your choosing.
 
- - MERN Stack Developer
- 
- - Javascript Developer
- 
- - Extension Developer
- 
- - Coding Geek
- 
-### A little more about me 🤞
+### Writing
 
+I write up the problems worth explaining on [Medium](https://medium.com/@ninadsutrave) — most recently migrating 5TB of payment data to MySQL 8.0, and building full-text search on PostgreSQL alone.
 
-I work every single day towards strengthening my understanding and expanding my experience with the web and software engineering. Do not hesitate in approaching me for collaboration on serious projects aligned with my interests in development. Some of my projects that are live in the stores with real users using it, motivate me further to create unique applications for even larger audiences.
+### Elsewhere
 
-### Portfolio 📌
-
-[ninadsutrave.in](https://ninadsutrave.in)
-
-### Reach me via 🔗
-
- - [Dribbble](https://dribbble.com/ninadsutrave/)
-
- - [LinkedIn](https://www.linkedin.com/in/ninadsutrave/)
- 
- - [Instagram](https://www.instagram.com/ninadsutrave/)
+[ninadsutrave.com](https://ninadsutrave.com) · [LinkedIn](https://linkedin.com/in/ninadsutrave) · [Medium](https://medium.com/@ninadsutrave)
