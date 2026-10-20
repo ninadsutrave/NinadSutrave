@@ -19,6 +19,7 @@ Backend engineer working on payments. I like building apps that are fun to use a
 - **[Puppeteer](https://github.com/puppeteer/puppeteer/pull/15594)** — added `page.tabInfo()`, a new API for a page's tab index, active and pinned state, and tab group.
 - **[go-redis](https://github.com/redis/go-redis/pull/4089)** — fixed OpenTelemetry connection counts that missed connections opened before setup.
 - **[Micrometer](https://github.com/micrometer-metrics/micrometer/pull/8066)** — stopped the StatsD client logging a warning for every packet while the server is down.
+- **[Vert.x](https://github.com/eclipse-vertx/vert.x/pull/6449)** — made writes to a closed WebSocket fail with a typed exception so callers like Quarkus can detect them, and backported it to 5.2.
 - **[go-github](https://github.com/google/go-github/pull/4611)** — added the stargazer count and history endpoints, and [Actions concurrency groups](https://github.com/google/go-github/pull/4640).
 - **[Fiber](https://github.com/gofiber/fiber/pull/4769)** — moved the static and SendFile path checks into one package, and [consolidated media-type parsing](https://github.com/gofiber/fiber/pull/4750).
 
